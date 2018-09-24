@@ -12,7 +12,12 @@ CREATE TABLE Players
    PrizeMoney INT NOT NULL,  -- NOT NULL - ячейка стоблца не может быть пустой  (пустая строка != NULL)
    ChampionCount INT NOT NULL ,
    Game NVARCHAR(20) CHECK(Game !='') NOT NULL,
-   PlayStyle NVARCHAR(20) CHECK(PlayStyle !='') NOT NULL
+   PlayStyle NVARCHAR(20) CHECK(PlayStyle !='') NOT NULL,
+   
+   -- Ограничения
+   CONSTRAINT CK_PrizeMoney CHECK(PrizeMoney > 0), -- CK - сокращение для слова CHECK
+   CONSTRAINT CK_ChampionCount CHECK(ChampionCount >= 0),
+
 )
 
 -- Таблица, содержащая информацию о игре
@@ -23,7 +28,11 @@ CREATE TABLE Games
 	GameGenre NVARCHAR(20) CHECK(GameGenre !='') NOT NULL,
 	Developer NVARCHAR(20) CHECK(Developer !='') NOT NULL,
 	TournamenstAmount INT NOT NULL,
-	PlayerAmount INT NOT NULL
+	PlayerAmount INT NOT NULL,
+
+	 -- Ограничения
+   CONSTRAINT CK_TournamenstAmount CHECK(TournamenstAmount >= 0),  -- CONSTRAINT лишь задаёт имя ограничению 
+   CONSTRAINT CK_PlayerAmount CHECK(PlayerAmount >= 0)
 )
 
 -- Таблица, содержащая информацию о личностях игроков
@@ -34,14 +43,17 @@ CREATE TABLE PersonalInformation
 	FirstName NVARCHAR(20) CHECK(FirstName !='') NOT NULL,
 	LastName NVARCHAR(20) CHECK(LastName !='') NOT NULL,
 	AGE INT NOT NULL,
-	Country  NVARCHAR(20) CHECK(Country !='') NOT NULL
+	Country  NVARCHAR(20) CHECK(Country !='') NOT NULL,
+
+	 -- Ограничения
+   CONSTRAINT CK_AGE CHECK(AGE >= 18 AND  AGE <= 40)
 )
 
 
 
 ALTER TABLE Players
-ADD FOREIGN KEY(Game) REFERENCES Games(GameName); -- Внешний ключ должен указывать на УНИКАЛЬНЫЙ столбец таблицы, на которую он указывает
+ADD CONSTRAINT FK_Players_GameName FOREIGN KEY(Game)  REFERENCES Games(GameName); -- Внешний ключ должен указывать на УНИКАЛЬНЫЙ столбец таблицы, на которую он указывает
 
 ALTER TABLE Players
-ADD FOREIGN KEY(NickName) REFERENCES  PersonalInformation(NickName);
+ADD CONSTRAINT FK_Players_NickName FOREIGN KEY(NickName) REFERENCES  PersonalInformation(NickName); 
 
