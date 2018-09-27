@@ -1,100 +1,100 @@
-('BlackKingThin',   14585, 1, 'Inversus 3',   'Defensive' ),
-('BlackShootShoot',   15100, 5, 'Battlefield 3',   'Middle' ),
-('BlackThinLight',   1384, 4, 'HoPiKo',   'Middle' ),
-('ClerkFastDark',   18487, 1, 'FutureGrind 2',   'Agressive' ),
-('ClerkFastWhite',   8912, 3, 'Dollhouse 2',   'Defensive' ),
-('ClerkFatWhite',   17123, 2, 'Deiland 4',   'Agressive' ),
-('ClerkGodSpy',   17593, 1, 'Candleman 3',   'Defensive' ),
-('ClerkKingRough',   32019, 3, 'Forgotton 2',   'Agressive' ),
-('ClerkSmellingKing',   6391, 3, 'Biomutant 3',   'Agressive' ),
-('ClerkUnfunnyThin',   23035, 2, 'Extinction 5',   'Agressive' ),
-('ClerkWhiteThin',   13799, 3, 'Dollhouse',   'Middle' ),
-('DarkDarkSmelling',   22223, 5, 'FutureGrind 4',   'Middle' ),
-('DarkFatClerk',   29931, 0, 'Battlefield 4',   'Agressive' ),
-('DarkFatFat',   21980, 0, 'Chasm 3',   'Defensive' ),
-('DarkFunnySpy',   29986, 1, 'Candleman 5',   'Defensive' ),
-('ElderThinClerk',   2022, 2, 'Biomutant 5',   'Agressive' ),
-('FastElderShoot',   17004, 1, 'Dogos',   'Middle' ),
-('FastFastSpy',   4036, 5, 'Binaries 4',   'Agressive' ),
-('FastFunnySpy',   23709, 1, 'Call of Duty 2',   'Middle' ),
-('FastKingLight',   15418, 3, 'Battlefield 3',   'Middle' ),
-('FastLightFast',   6911, 1, 'HoPiKo 5',   'Agressive' ),
-('FastLightFunny',   29718, 3, 'Candleman',   'Agressive' ),
-('FastManFunny',   10254, 3, 'Chasm 5',   'Defensive' ),
-('FastSpySmelling',   12430, 5, 'Binaries 4',   'Middle' ),
-('FastUnfunnyKing',   4463, 0, 'FutureGrind 3',   'Defensive' ),
-('FatBlackFat',   8663, 0, 'Call of Duty 3',   'Middle' ),
-('FatDarkFast',   10288, 3, 'FutureGrind 4',   'Agressive' ),
-('FatManRough',   23049, 0, 'Forgotton 5',   'Agressive' ),
-('FatRainFunny',   11590, 3, 'Inversus 2',   'Defensive' ),
-('FatRainUnfunny',   6706, 2, 'Call of Duty 2',   'Agressive' ),
-('FatUnfunnyThin',   1603, 3, 'Binaries 5',   'Middle' ),
-('FunnyClerkFat',   7607, 3, 'Biomutant 2',   'Agressive' ),
-('FunnyFastThin',   30294, 4, 'Binaries 3',   'Defensive' ),
-('FunnyFatDark',   32755, 3, 'Flockers',   'Defensive' ),
-('FunnyKingFast',   6024, 4, 'Collectems 5',   'Defensive' ),
-('FunnyManMan',   6154, 3, 'FutureGrind 3',   'Defensive' ),
-('FunnyRainUnfunny',   4149, 3, 'Descenders 3',   'Defensive' ),
-('FunnyRoughSmelling',   26381, 0, 'Biomutant 2',   'Agressive' ),
-('FunnySmellingLight',   16584, 3, 'Binaries 4',   'Middle' ),
-('FunnyThinRain',   29779, 2, 'Collectems 4',   'Defensive' ),
-('GodFatDark',   26042, 4, 'DayZ 4',   'Agressive' ),
-('GodRoughRain',   13333, 2, 'Dollhouse 3',   'Agressive' ),
-('GodSpyLight',   27084, 1, 'Candleman 5',   'Defensive' ),
-('KingBlackKing',   21580, 4, 'Inversus 2',   'Agressive' ),
-('KingFastThin',   25731, 0, 'Fibbage 4',   'Defensive' ),
-('KingRainKing',   3015, 1, 'Chimparty 4',   'Agressive' ),
-('KingSpyFat',   228, 4, 'Biomutant 3',   'Defensive' ),
-('KingWhiteShoot',   18319, 1, 'Deiland 4',   'Defensive' ),
-('KingWhiteSpy',   18545, 3, 'Extinction 2',   'Agressive' ),
-('LightElderGod',   21119, 2, 'Biomutant 3',   'Middle' ),
-('LightFastClerk',   3683, 5, 'Collectems 5',   'Middle' ),
-('LightWhiteBlack',   21278, 2, 'Extinction',   'Middle' ),
-('ManBlackSmelling',   30504, 4, 'Chimparty',   'Defensive' ),
-('ManElderDark',   15295, 0, 'Call of Duty 5',   'Middle' ),
-('ManLightThin',   22559, 4, 'Descenders 2',   'Middle' ),
-('ManRoughKing',   2267, 2, 'Binaries 3',   'Agressive' ),
-('ManShootKing',   27538, 0, 'Flockers 4',   'Middle' ),
-('ManSmellingSpy',   27053, 2, 'Collectems 3',   'Agressive' ),
-('ManThinFat',   5363, 4, 'Flockers 4',   'Middle' ),
-('RainFunnyFat',   12047, 3, 'Forgotton 2',   'Middle' ),
-('RainLightUnfunny',   12635, 4, 'Chimparty 5',   'Middle' ),
-('RainManUnfunny',   7316, 3, 'Deiland 5',   'Middle' ),
-('RainSmellingClerk',   12351, 5, 'Collectems',   'Agressive' ),
-('RoughDarkKing',   30693, 2, 'Collectems 5',   'Middle' ),
-('RoughFastFat',   28788, 2, 'Flockers',   'Agressive' ),
-('RoughManFast',   29280, 2, 'Flockers',   'Middle' ),
-('RoughShootFunny',   7525, 3, 'Descenders 3',   'Defensive' ),
-('RoughSmellingShoot',   18670, 4, 'Call of Duty 5',   'Middle' ),
-('RoughThinBlack',   2194, 1, 'Inversus 2',   'Defensive' ),
-('ShootBlackFunny',   13860, 3, 'Candleman 3',   'Middle' ),
-('ShootLightMan',   15179, 5, 'Battlefield',   'Middle' ),
-('ShootSmellingLight',   4765, 4, 'Flockers 4',   'Middle' ),
-('ShootWhiteWhite',   15534, 3, 'Dogos',   'Middle' ),
-('SmellingDarkSpy',   16278, 2, 'Descenders',   'Agressive' ),
-('SmellingElderGod',   18398, 3, 'Deiland',   'Defensive' ),
-('SmellingFatShoot',   14283, 0, 'Candleman 4',   'Middle' ),
-('SmellingKingDark',   28292, 5, 'Deiland 4',   'Defensive' ),
-('SpyClerkBlack',   25232, 5, 'Deiland 5',   'Middle' ),
-('SpyFunnyShoot',   25483, 2, 'Extinction',   'Agressive' ),
-('SpyLightClerk',   1330, 2, 'Dollhouse 2',   'Defensive' ),
-('SpySmellingFunny',   27159, 2, 'Descenders',   'Middle' ),
-('ThinFunnySmelling',   28303, 4, 'Dollhouse',   'Middle' ),
-('ThinGodRain',   9413, 2, 'Extinction 3',   'Middle' ),
-('ThinKingFat',   14579, 0, 'Inversus 5',   'Agressive' ),
-('ThinLightKing',   16681, 4, 'Candleman 4',   'Agressive' ),
-('ThinUnfunnyFat',   15926, 1, 'Binaries 5',   'Middle' ),
-('UnfunnyBlackBlack',   15236, 3, 'Descenders 4',   'Agressive' ),
-('UnfunnyGodFast',   6674, 0, 'Flockers 2',   'Middle' ),
-('UnfunnyRoughUnfunny',   14021, 4, 'Binaries 3',   'Middle' ),
-('WhiteClerkDark',   22217, 0, 'Dogos 3',   'Middle' ),
-('WhiteElderElder',   9411, 3, 'Fibbage 4',   'Defensive' ),
-('WhiteElderSmelling',   8183, 1, 'Inversus 4',   'Defensive' ),
-('WhiteFastWhite',   15032, 4, 'Descenders 4',   'Agressive' ),
-('WhiteFatFunny',   6068, 2, 'Chasm 5',   'Middle' ),
-('WhiteFunnyGod',   28160, 4, 'Biomutant 2',   'Middle' ),
-('WhiteGodBlack',   10733, 2, 'Candleman 2',   'Agressive' ),
-('WhiteGodFat',   29969, 3, 'DayZ 5',   'Middle' ),
-('WhiteShootRain',   31236, 2, 'Biomutant 2',   'Middle' ),
-('WhiteShootUnfunny',   2237, 5, 'Candleman 4',   'Defensive' ),
-('WhiteSmellingKing',   18085, 2, 'DayZ 4',   'Agressive' ),
+, BlackBlackFast,   932, 4, Flockers 3,   Middle 
+, BlackFastRain,   10209, 2, DayZ 2,   Middle 
+, BlackFastWhite,   18515, 4, Flockers,   Middle 
+, BlackGodFat,   6449, 1, Call of Duty 4,   Agressive 
+, BlackRainRough,   28787, 5, Biomutant 5,   Defensive 
+, BlackShootKing,   24474, 5, Deiland 3,   Agressive 
+, BlackThinKing,   4397, 3, Deiland 3,   Defensive 
+, BlackThinSmelling,   3227, 1, Extinction 5,   Middle 
+, ClerkClerkFat,   32399, 5, Battlefield 3,   Agressive 
+, ClerkDarkSpy,   7380, 1, Forgotton 4,   Middle 
+, ClerkGodKing,   1112, 0, Descenders 4,   Agressive 
+, ClerkGodRain,   21747, 3, Inversus,   Middle 
+, ClerkRainMan,   8702, 1, Forgotton 2,   Middle 
+, ClerkThinElder,   24542, 5, Flockers 4,   Middle 
+, DarkFunnyLight,   5636, 0, Chimparty 2,   Middle 
+, DarkFunnyMan,   6689, 5, Chimparty 2,   Middle 
+, DarkShootGod,   17530, 5, Dollhouse 3,   Defensive 
+, DarkSpyGod,   13977, 0, FutureGrind 2,   Agressive 
+, DarkSpyWhite,   17620, 0, Biomutant,   Agressive 
+, DarkUnfunnyKing,   10337, 3, Dogos 5,   Middle 
+, ElderThinRough,   8943, 1, Flockers 5,   Agressive 
+, FastClerkBlack,   32252, 1, Chimparty 3,   Agressive 
+, FastDarkUnfunny,   8032, 0, Candleman 3,   Middle 
+, FastFastFat,   6596, 2, Fibbage 2,   Defensive 
+, FastFunnyGod,   31487, 5, Descenders 2,   Middle 
+, FastKingDark,   29586, 3, Candleman 4,   Middle 
+, FastKingRain,   6580, 5, Candleman 5,   Middle 
+, FastSmellingMan,   20398, 4, Extinction 3,   Agressive 
+, FastWhiteFast,   2176, 3, Call of Duty 3,   Defensive 
+, FastWhiteWhite,   5881, 5, Chasm 4,   Agressive 
+, FatBlackFast,   13006, 2, Fibbage 5,   Defensive 
+, FatFastRough,   15448, 4, Fibbage 3,   Defensive 
+, FatFastSpy,   21242, 0, Forgotton 2,   Defensive 
+, FatManRough,   23395, 1, Fibbage 2,   Agressive 
+, FatRainFunny,   27170, 1, Inversus,   Defensive 
+, FunnyBlackLight,   31822, 2, Descenders 2,   Agressive 
+, FunnyClerkKing,   19244, 0, Call of Duty 2,   Middle 
+, FunnyFatGod,   10518, 0, Binaries 3,   Defensive 
+, FunnyManMan,   1303, 4, Chasm,   Defensive 
+, FunnyShootRain,   16367, 5, Chimparty 2,   Agressive 
+, FunnyShootUnfunny,   14469, 5, Battlefield 4,   Defensive 
+, FunnyThinBlack,   12013, 2, Binaries 4,   Defensive 
+, FunnyUnfunnyMan,   9353, 3, DayZ 2,   Defensive 
+, GodDarkElder,   1266, 3, Fibbage 5,   Defensive 
+, GodDarkMan,   30381, 4, Forgotton 4,   Agressive 
+, GodFastBlack,   983, 5, HoPiKo 5,   Middle 
+, GodFastLight,   10823, 4, Deiland 4,   Agressive 
+, GodFunnyBlack,   8157, 4, Flockers 3,   Defensive 
+, GodKingThin,   764, 3, Candleman 4,   Agressive 
+, GodLightWhite,   6230, 2, Descenders 4,   Middle 
+, GodSmellingRain,   28308, 0, Flockers 4,   Defensive 
+, GodUnfunnyFast,   5518, 2, Call of Duty,   Middle 
+, GodUnfunnyShoot,   23040, 5, Collectems 5,   Agressive 
+, KingDarkFast,   30719, 0, Forgotton,   Defensive 
+, KingRainThin,   17832, 2, Collectems 3,   Agressive 
+, KingWhiteLight,   17589, 0, Chasm 5,   Defensive 
+, LightFunnyClerk,   9465, 5, Binaries 2,   Defensive 
+, LightLightGod,   23294, 4, Binaries,   Middle 
+, LightManShoot,   21807, 0, Candleman 2,   Middle 
+, LightShootGod,   24406, 5, Chasm 5,   Agressive 
+, LightThinWhite,   14174, 3, Collectems 3,   Agressive 
+, ManDarkSmelling,   1937, 5, Call of Duty 4,   Agressive 
+, ManFastMan,   14790, 3, HoPiKo 2,   Middle 
+, ManLightFunny,   13385, 1, Battlefield 5,   Defensive 
+, ManRoughSmelling,   23640, 2, Extinction 5,   Middle 
+, ManSmellingFat,   906, 3, Deiland 3,   Middle 
+, RainFunnyFunny,   31875, 2, Forgotton 4,   Agressive 
+, RainLightThin,   18619, 1, Candleman 3,   Agressive 
+, RainWhiteRain,   29764, 0, Call of Duty 5,   Middle 
+, RoughDarkBlack,   5583, 1, HoPiKo 4,   Defensive 
+, RoughFatLight,   22636, 2, DayZ 5,   Middle 
+, RoughManSmelling,   16813, 2, Dollhouse,   Agressive 
+, RoughRoughFat,   25139, 3, Chimparty 3,   Middle 
+, ShootBlackShoot,   6108, 4, Descenders,   Defensive 
+, ShootClerkFat,   20477, 1, Dogos 4,   Middle 
+, ShootClerkShoot,   7538, 0, HoPiKo 2,   Defensive 
+, ShootDarkFunny,   18795, 4, Extinction,   Defensive 
+, ShootGodKing,   5950, 0, Collectems 2,   Agressive 
+, ShootRainRain,   4773, 2, Binaries 5,   Defensive 
+, SmellingFastUnfunny,   15667, 5, Candleman 2,   Agressive 
+, SmellingFunnyElder,   6886, 0, Deiland 5,   Agressive 
+, SmellingManSmelling,   18199, 2, DayZ 3,   Agressive 
+, SmellingUnfunnyGod,   12871, 0, Flockers,   Defensive 
+, SmellingWhiteClerk,   15981, 1, Dogos 3,   Agressive 
+, SpyKingShoot,   29392, 4, Descenders 3,   Agressive 
+, ThinBlackClerk,   16799, 3, Forgotton 4,   Defensive 
+, ThinElderSmelling,   10427, 0, Flockers 2,   Middle 
+, ThinFastRain,   9327, 1, Chimparty 3,   Middle 
+, ThinFastSmelling,   17931, 4, Forgotton 2,   Agressive 
+, ThinFatElder,   6559, 4, Biomutant 4,   Middle 
+, ThinKingUnfunny,   11597, 5, Descenders 4,   Agressive 
+, ThinRoughBlack,   20959, 0, Fibbage 3,   Middle 
+, UnfunnyBlackRain,   24492, 0, Collectems 3,   Defensive 
+, UnfunnyBlackUnfunny,   15350, 2, FutureGrind 5,   Middle 
+, UnfunnyThinUnfunny,   23098, 3, Descenders 3,   Defensive 
+, WhiteDarkBlack,   21044, 3, Forgotton,   Middle 
+, WhiteElderClerk,   11901, 2, HoPiKo 4,   Defensive 
+, WhiteFatMan,   8470, 5, FutureGrind,   Agressive 
+, WhiteSmellingRough,   8760, 4, HoPiKo 3,   Agressive 
+, WhiteWhiteDark,   29498, 1, Dogos 2,   Middle 

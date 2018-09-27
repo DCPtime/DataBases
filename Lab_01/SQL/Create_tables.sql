@@ -8,11 +8,11 @@ CREATE TABLE Players
 									    его атрибуты: 1) значение, который будет у первой строки
                                                       2) значение, которое будет прибавл€тс€ при добавлении новой строки к предыдущему
 								      */
-   NickName NVARCHAR(20) UNIQUE CHECK(Nickname !='') NOT NULL, -- CHECK - услови€, которому должны соотвествовать €чейки таблицы
+   NickName NVARCHAR(50) UNIQUE CHECK(Nickname !='') NOT NULL, -- CHECK - услови€, которому должны соотвествовать €чейки таблицы
    PrizeMoney INT NOT NULL,  -- NOT NULL - €чейка стоблца не может быть пустой  (пуста€ строка != NULL)
    ChampionCount INT NOT NULL ,
-   Game NVARCHAR(20) CHECK(Game !='') NOT NULL,
-   PlayStyle NVARCHAR(20) CHECK(PlayStyle !='') NOT NULL,
+   Game NVARCHAR(50) CHECK(Game !='') NOT NULL,
+   PlayStyle NVARCHAR(50) CHECK(PlayStyle !='') NOT NULL,
    
    -- ќграничени€
    CONSTRAINT CK_PrizeMoney CHECK(PrizeMoney > 0), -- CK - сокращение дл€ слова CHECK
@@ -24,9 +24,9 @@ CREATE TABLE Players
 CREATE TABLE Games
 (
     Id INT PRIMARY KEY IDENTITY(1, 1),
-	GameName NVARCHAR(20) CHECK(GameName !='') UNIQUE NOT NULL, --Ќа это пол€ есть ссылка из другой таблицы, оно должно быть уникальным
-	GameGenre NVARCHAR(20) CHECK(GameGenre !='') NOT NULL,
-	Developer NVARCHAR(20) CHECK(Developer !='') NOT NULL,
+	GameName NVARCHAR(50) CHECK(GameName !='') UNIQUE NOT NULL, --Ќа это пол€ есть ссылка из другой таблицы, оно должно быть уникальным
+	GameGenre NVARCHAR(50) CHECK(GameGenre !='') NOT NULL,
+	Developer NVARCHAR(50) CHECK(Developer !='') NOT NULL,
 	TournamenstAmount INT NOT NULL,
 	PlayerAmount INT NOT NULL,
 
@@ -39,14 +39,21 @@ CREATE TABLE Games
 CREATE TABLE PersonalInformation
 (
     Id INT PRIMARY KEY IDENTITY(1, 1),
-	NickName NVARCHAR(20) UNIQUE CHECK(NickName !='') NOT NULL,
-	FirstName NVARCHAR(20) CHECK(FirstName !='') NOT NULL,
-	LastName NVARCHAR(20) CHECK(LastName !='') NOT NULL,
+	NickName NVARCHAR(50) UNIQUE CHECK(NickName !='') NOT NULL,
+	FirstName NVARCHAR(50) CHECK(FirstName !='') NOT NULL,
+	LastName NVARCHAR(50) CHECK(LastName !='') NOT NULL,
 	AGE INT NOT NULL,
-	Country  NVARCHAR(20) CHECK(Country !='') NOT NULL,
+	CountryId  int NOT NULL,
 
 	 -- ќграничени€
    CONSTRAINT CK_AGE CHECK(AGE >= 18 AND  AGE <= 40)
+)
+
+-- “аблица со странами
+CREATE TABLE Countries
+(
+    Id INT PRIMARY KEY IDENTITY(1, 1),
+	Country  NVARCHAR(50) UNIQUE CHECK(Country !='') NOT NULL,
 )
 
 
@@ -56,4 +63,7 @@ ADD CONSTRAINT FK_Players_GameName FOREIGN KEY(Game)  REFERENCES Games(GameName)
 
 ALTER TABLE Players
 ADD CONSTRAINT FK_Players_NickName FOREIGN KEY(NickName) REFERENCES  PersonalInformation(NickName); 
+
+ALTER TABLE PersonalInformation
+ADD CONSTRAINT FK_PersonalInformation_CountryId FOREIGN KEY(CountryId) REFERENCES  Countries(Id); 
 

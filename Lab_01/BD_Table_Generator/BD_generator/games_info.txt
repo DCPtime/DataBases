@@ -1,100 +1,100 @@
-('Battlefield',   'MOBA',   'Babaroga',   8, 22766),
-('Battlefield 2',   'Sport',   'Jagex',   17, 30435),
-('Battlefield 3',   'RTS',   'Hexage',   2, 3134),
-('Battlefield 4',   'Sport',   'Kloonigames',   12, 8889),
-('Battlefield 5',   'Sport',   'Cinemax',   3, 11065),
-('Binaries',   'FPS',   'Cinemax',   10, 5856),
-('Binaries 2',   'Racing',   'Hexage',   18, 30340),
-('Binaries 3',   'FPS',   'Alientrap',   20, 21292),
-('Binaries 4',   'FPS',   'Jagex',   5, 4711),
-('Binaries 5',   'FPS',   'Cinemax',   7, 3982),
-('Biomutant',   'RTS',   'Jagex',   7, 12115),
-('Biomutant 2',   'FPS',   'Kloonigames',   13, 9521),
-('Biomutant 3',   'FPS',   'Kloonigames',   5, 31382),
-('Biomutant 4',   'MOBA',   'Jagex',   4, 13784),
-('Biomutant 5',   'FPS',   'Cypronia',   4, 21340),
-('Call of Duty',   'RTS',   'Kloonigames',   19, 11638),
-('Call of Duty 2',   'RTS',   'Hexage',   11, 32745),
-('Call of Duty 3',   'Fighting',   'Alientrap',   15, 31247),
-('Call of Duty 4',   'Sport',   'Alientrap',   7, 24340),
-('Call of Duty 5',   'Fighting',   'Eurocom',   19, 5581),
-('Candleman',   'Racing',   'Alientrap',   18, 20998),
-('Candleman 2',   'Racing',   'Kloonigames',   12, 16229),
-('Candleman 3',   'MOBA',   'Llamasoft',   4, 23092),
-('Candleman 4',   'Racing',   'Frogwares',   19, 31916),
-('Candleman 5',   'Fighting',   'Frogwares',   11, 10138),
-('Chasm',   'Fighting',   'Babaroga',   16, 17268),
-('Chasm 2',   'Fighting',   'Cypronia',   2, 4921),
-('Chasm 3',   'Sport',   'Croteam',   15, 25772),
-('Chasm 4',   'FPS',   'Frogwares',   5, 16850),
-('Chasm 5',   'RTS',   'Alientrap',   4, 5559),
-('Chimparty',   'RTS',   'Croteam',   3, 27363),
-('Chimparty 2',   'MOBA',   'Kloonigames',   7, 13324),
-('Chimparty 3',   'Sport',   'Frogwares',   20, 32738),
-('Chimparty 4',   'FPS',   'Alientrap',   17, 7950),
-('Chimparty 5',   'FPS',   'Cypronia',   9, 12216),
-('Collectems',   'Racing',   'Cinemax',   10, 17453),
-('Collectems 2',   'RTS',   'Jagex',   1, 33408),
-('Collectems 3',   'Racing',   'Jagex',   19, 14653),
-('Collectems 4',   'Racing',   'Llamasoft',   13, 2433),
-('Collectems 5',   'MOBA',   'Cypronia',   2, 33046),
-('DayZ',   'Racing',   'Llamasoft',   14, 24424),
-('DayZ 2',   'FPS',   'Babaroga',   9, 22124),
-('DayZ 3',   'RTS',   'Croteam',   2, 29897),
-('DayZ 4',   'Sport',   'Jagex',   8, 6383),
-('DayZ 5',   'Racing',   'Cinemax',   13, 25816),
-('Deiland',   'Sport',   'Hexage',   17, 14502),
-('Deiland 2',   'Fighting',   'Babaroga',   9, 20067),
-('Deiland 3',   'RTS',   'Frogwares',   8, 15239),
-('Deiland 4',   'Racing',   'Frogwares',   16, 27923),
-('Deiland 5',   'Racing',   'Cinemax',   3, 14683),
-('Descenders',   'MOBA',   'Cypronia',   13, 28387),
-('Descenders 2',   'MOBA',   'Llamasoft',   19, 27089),
-('Descenders 3',   'Sport',   'Llamasoft',   20, 16863),
-('Descenders 4',   'Racing',   'Frogwares',   13, 8416),
-('Descenders 5',   'FPS',   'Croteam',   18, 22049),
-('Dogos',   'Racing',   'Alientrap',   15, 21857),
-('Dogos 2',   'Racing',   'Jagex',   1, 4105),
-('Dogos 3',   'Racing',   'Cypronia',   10, 3563),
-('Dogos 4',   'Sport',   'Llamasoft',   12, 26300),
-('Dogos 5',   'Sport',   'Frogwares',   8, 20465),
-('Dollhouse',   'RTS',   'Babaroga',   10, 27358),
-('Dollhouse 2',   'Fighting',   'Kloonigames',   1, 27930),
-('Dollhouse 3',   'FPS',   'Cypronia',   11, 12691),
-('Dollhouse 4',   'Fighting',   'Jagex',   7, 19168),
-('Dollhouse 5',   'RTS',   'Hexage',   11, 24498),
-('Extinction',   'MOBA',   'Jagex',   13, 32876),
-('Extinction 2',   'Fighting',   'Cypronia',   18, 20811),
-('Extinction 3',   'Fighting',   'Cypronia',   12, 26288),
-('Extinction 4',   'Sport',   'Hexage',   12, 6492),
-('Extinction 5',   'RTS',   'Frogwares',   5, 30404),
-('Fibbage',   'Fighting',   'Jagex',   15, 21966),
-('Fibbage 2',   'Fighting',   'Llamasoft',   5, 4741),
-('Fibbage 3',   'Racing',   'Cypronia',   2, 5045),
-('Fibbage 4',   'RTS',   'Cypronia',   7, 4972),
-('Fibbage 5',   'Fighting',   'Babaroga',   19, 16328),
-('Flockers',   'FPS',   'Cinemax',   10, 15275),
-('Flockers 2',   'Fighting',   'Cinemax',   15, 24350),
-('Flockers 3',   'FPS',   'Cinemax',   3, 25997),
-('Flockers 4',   'Racing',   'Llamasoft',   5, 3114),
-('Flockers 5',   'MOBA',   'Croteam',   6, 3343),
-('Forgotton',   'Sport',   'Jagex',   8, 29689),
-('Forgotton 2',   'MOBA',   'Babaroga',   19, 4026),
-('Forgotton 3',   'Racing',   'Cinemax',   13, 20394),
-('Forgotton 4',   'Sport',   'Llamasoft',   3, 16066),
-('Forgotton 5',   'Sport',   'Llamasoft',   13, 5677),
-('FutureGrind',   'RTS',   'Cinemax',   7, 8036),
-('FutureGrind 2',   'MOBA',   'Llamasoft',   3, 25151),
-('FutureGrind 3',   'Racing',   'Cypronia',   12, 30076),
-('FutureGrind 4',   'RTS',   'Llamasoft',   2, 18596),
-('FutureGrind 5',   'Sport',   'Alientrap',   20, 29797),
-('HoPiKo',   'Racing',   'Croteam',   8, 6823),
-('HoPiKo 2',   'RTS',   'Kloonigames',   5, 12820),
-('HoPiKo 3',   'FPS',   'Alientrap',   17, 20687),
-('HoPiKo 4',   'Fighting',   'Alientrap',   15, 14455),
-('HoPiKo 5',   'FPS',   'Hexage',   6, 6626),
-('Inversus',   'FPS',   'Cinemax',   15, 20747),
-('Inversus 2',   'RTS',   'Cinemax',   16, 18975),
-('Inversus 3',   'MOBA',   'Croteam',   1, 26300),
-('Inversus 4',   'Fighting',   'Eurocom',   18, 9910),
-('Inversus 5',   'RTS',   'Cypronia',   18, 6656),
+, Battlefield,   RTS,   Cinemax,   12, 14372
+, Battlefield 2,   FPS,   Jagex,   7, 14231
+, Battlefield 3,   Fighting,   Llamasoft,   19, 16532
+, Battlefield 4,   MOBA,   Babaroga,   7, 25749
+, Battlefield 5,   RTS,   Alientrap,   18, 18593
+, Binaries,   Racing,   Croteam,   11, 4516
+, Binaries 2,   Sport,   Llamasoft,   6, 21423
+, Binaries 3,   MOBA,   Hexage,   19, 22348
+, Binaries 4,   Racing,   Llamasoft,   11, 28530
+, Binaries 5,   Sport,   Frogwares,   18, 8126
+, Biomutant,   Racing,   Cypronia,   16, 17911
+, Biomutant 2,   Sport,   Croteam,   6, 11016
+, Biomutant 3,   RTS,   Cypronia,   1, 7926
+, Biomutant 4,   Fighting,   Llamasoft,   5, 24700
+, Biomutant 5,   RTS,   Croteam,   12, 23638
+, Call of Duty,   Sport,   Babaroga,   7, 6493
+, Call of Duty 2,   MOBA,   Cinemax,   8, 15873
+, Call of Duty 3,   Sport,   Llamasoft,   20, 20684
+, Call of Duty 4,   FPS,   Cinemax,   20, 30954
+, Call of Duty 5,   MOBA,   Frogwares,   13, 25841
+, Candleman,   Racing,   Kloonigames,   4, 27995
+, Candleman 2,   RTS,   Croteam,   18, 21868
+, Candleman 3,   Fighting,   Alientrap,   4, 2178
+, Candleman 4,   RTS,   Jagex,   3, 11005
+, Candleman 5,   Sport,   Hexage,   2, 7486
+, Chasm,   Fighting,   Jagex,   20, 29810
+, Chasm 2,   Fighting,   Kloonigames,   4, 16422
+, Chasm 3,   FPS,   Eurocom,   9, 1233
+, Chasm 4,   MOBA,   Babaroga,   1, 29402
+, Chasm 5,   Sport,   Croteam,   14, 24262
+, Chimparty,   RTS,   Alientrap,   17, 10894
+, Chimparty 2,   FPS,   Frogwares,   15, 31055
+, Chimparty 3,   MOBA,   Hexage,   11, 32211
+, Chimparty 4,   Fighting,   Eurocom,   12, 18853
+, Chimparty 5,   MOBA,   Cinemax,   15, 1447
+, Collectems,   Sport,   Jagex,   7, 15980
+, Collectems 2,   Sport,   Hexage,   11, 15807
+, Collectems 3,   Sport,   Eurocom,   17, 6174
+, Collectems 4,   RTS,   Cinemax,   9, 28692
+, Collectems 5,   Fighting,   Llamasoft,   13, 19124
+, DayZ,   FPS,   Jagex,   18, 30635
+, DayZ 2,   Fighting,   Kloonigames,   19, 21654
+, DayZ 3,   MOBA,   Babaroga,   19, 26280
+, DayZ 4,   FPS,   Kloonigames,   17, 14021
+, DayZ 5,   Fighting,   Cypronia,   1, 23445
+, Deiland,   Fighting,   Cypronia,   20, 31302
+, Deiland 2,   MOBA,   Llamasoft,   9, 4591
+, Deiland 3,   Racing,   Kloonigames,   1, 28369
+, Deiland 4,   RTS,   Babaroga,   15, 31218
+, Deiland 5,   FPS,   Llamasoft,   17, 3770
+, Descenders,   Fighting,   Jagex,   3, 25509
+, Descenders 2,   MOBA,   Cinemax,   6, 13343
+, Descenders 3,   Sport,   Frogwares,   2, 2343
+, Descenders 4,   RTS,   Hexage,   19, 2898
+, Descenders 5,   Sport,   Kloonigames,   10, 1083
+, Dogos,   Fighting,   Cypronia,   2, 28297
+, Dogos 2,   FPS,   Croteam,   13, 31505
+, Dogos 3,   MOBA,   Frogwares,   12, 5827
+, Dogos 4,   Racing,   Jagex,   18, 4183
+, Dogos 5,   Sport,   Eurocom,   17, 19965
+, Dollhouse,   RTS,   Eurocom,   13, 25215
+, Dollhouse 2,   Fighting,   Kloonigames,   1, 3733
+, Dollhouse 3,   Fighting,   Alientrap,   20, 9810
+, Dollhouse 4,   MOBA,   Llamasoft,   3, 15357
+, Dollhouse 5,   Fighting,   Llamasoft,   19, 10421
+, Extinction,   MOBA,   Babaroga,   20, 24740
+, Extinction 2,   MOBA,   Cinemax,   20, 17338
+, Extinction 3,   MOBA,   Croteam,   10, 7457
+, Extinction 4,   Racing,   Llamasoft,   10, 4841
+, Extinction 5,   Racing,   Babaroga,   9, 13473
+, Fibbage,   RTS,   Cinemax,   19, 29392
+, Fibbage 2,   Racing,   Alientrap,   18, 25234
+, Fibbage 3,   Fighting,   Cypronia,   15, 6088
+, Fibbage 4,   RTS,   Llamasoft,   15, 26000
+, Fibbage 5,   MOBA,   Alientrap,   11, 18441
+, Flockers,   Racing,   Alientrap,   3, 27535
+, Flockers 2,   MOBA,   Kloonigames,   6, 1264
+, Flockers 3,   MOBA,   Jagex,   6, 19274
+, Flockers 4,   FPS,   Kloonigames,   19, 12175
+, Flockers 5,   RTS,   Hexage,   3, 14058
+, Forgotton,   RTS,   Alientrap,   8, 29813
+, Forgotton 2,   FPS,   Cypronia,   1, 21498
+, Forgotton 3,   RTS,   Hexage,   14, 2751
+, Forgotton 4,   Fighting,   Cinemax,   6, 25738
+, Forgotton 5,   Racing,   Alientrap,   17, 4703
+, FutureGrind,   FPS,   Kloonigames,   7, 28066
+, FutureGrind 2,   MOBA,   Babaroga,   10, 7594
+, FutureGrind 3,   Fighting,   Hexage,   1, 1769
+, FutureGrind 4,   FPS,   Cypronia,   2, 12840
+, FutureGrind 5,   FPS,   Jagex,   8, 16277
+, HoPiKo,   FPS,   Jagex,   13, 19607
+, HoPiKo 2,   FPS,   Cypronia,   9, 17557
+, HoPiKo 3,   FPS,   Llamasoft,   3, 13376
+, HoPiKo 4,   RTS,   Kloonigames,   15, 13309
+, HoPiKo 5,   Racing,   Eurocom,   6, 10621
+, Inversus,   Sport,   Alientrap,   10, 18865
+, Inversus 2,   RTS,   Cypronia,   8, 15242
+, Inversus 3,   RTS,   Hexage,   11, 20821
+, Inversus 4,   Sport,   Kloonigames,   6, 20876
+, Inversus 5,   Racing,   Eurocom,   12, 2419

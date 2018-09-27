@@ -1,100 +1,100 @@
-('BlackKingThin',   'Roy',  'Cramer',  39, 'Romania'),
-('BlackShootShoot',   'Alexey',  'Daniels',  21, 'China'),
-('BlackThinLight',   'Ted',  'Petrov',  28, 'Chad'),
-('ClerkFastDark',   'Sam',  'Taylor',  35, 'Ukraine'),
-('ClerkFastWhite',   'Hiroto',  'Daniels',  20, 'Brazil'),
-('ClerkFatWhite',   'Greg',  'Krasnov',  26, 'Uganda'),
-('ClerkGodSpy',   'Sam',  'Sherlock',  29, 'Brazil'),
-('ClerkKingRough',   'Max',  'Anderson',  23, 'Japan'),
-('ClerkSmellingKing',   'William',  'Farmer',  34, 'China'),
-('ClerkUnfunnyThin',   'Max',  'Fisher',  33, 'Ukraine'),
-('ClerkWhiteThin',   'Victor',  'Daniels',  21, 'Ukraine'),
-('DarkDarkSmelling',   'Pavel',  'Bush',  19, 'Ukraine'),
-('DarkFatClerk',   'Tony',  'Sherlock',  30, 'Zimbabwe'),
-('DarkFatFat',   'Mike',  'Taylor',  18, 'Romania'),
-('DarkFunnySpy',   'Sam',  'Dunce',  33, 'Ukraine'),
-('ElderThinClerk',   'Sam',  'Petrov',  36, 'Brazil'),
-('FastElderShoot',   'Pavel',  'Fisher',  39, 'Brazil'),
-('FastFastSpy',   'Hiroto',  'Nagamoto',  27, 'Japan'),
-('FastFunnySpy',   'Sam',  'Derrick',  28, 'Japan'),
-('FastKingLight',   'Irlando',  'Babcock',  33, 'Chad'),
-('FastLightFast',   'Danil',  'Taylor',  24, 'Chad'),
-('FastLightFunny',   'Irlando',  'Cramer',  31, 'Russia'),
-('FastManFunny',   'Roy',  'Bush',  18, 'German'),
-('FastSpySmelling',   'Max',  'Derrick',  27, 'Chad'),
-('FastUnfunnyKing',   'William',  'Taylor',  33, 'Italy'),
-('FatBlackFat',   'Roy',  'Farmer',  25, 'Uganda'),
-('FatDarkFast',   'Verondo',  'Farmer',  39, 'America'),
-('FatManRough',   'Andrey',  'Ivanov',  40, 'America'),
-('FatRainFunny',   'Duke',  'Nagamoto',  25, 'Romania'),
-('FatRainUnfunny',   'Hiroto',  'Taylor',  39, 'Zimbabwe'),
-('FatUnfunnyThin',   'Irlando',  'Anderson',  19, 'Japan'),
-('FunnyClerkFat',   'Ted',  'Sherlock',  26, 'Zimbabwe'),
-('FunnyFastThin',   'Alexey',  'Bush',  40, 'Chad'),
-('FunnyFatDark',   'Greg',  'Bush',  39, 'Zimbabwe'),
-('FunnyKingFast',   'Wilson',  'Cramer',  39, 'Ukraine'),
-('FunnyManMan',   'Victor',  'Dunce',  32, 'Ukraine'),
-('FunnyRainUnfunny',   'David',  'Krasnov',  36, 'Ukraine'),
-('FunnyRoughSmelling',   'Danil',  'Birch',  19, 'America'),
-('FunnySmellingLight',   'Wilson',  'Fisher',  23, 'German'),
-('FunnyThinRain',   'Danil',  'Petrov',  22, 'Italy'),
-('GodFatDark',   'Victor',  'Farmer',  18, 'German'),
-('GodRoughRain',   'Pavel',  'Sherlock',  31, 'Japan'),
-('GodSpyLight',   'Pavel',  'Fisher',  21, 'America'),
-('KingBlackKing',   'Max',  'Nagamoto',  26, 'britain'),
-('KingFastThin',   'Wilson',  'Petrov',  28, 'Ukraine'),
-('KingRainKing',   'Danil',  'Gilbert',  38, 'Italy'),
-('KingSpyFat',   'Mike',  'Krasnov',  35, 'Chad'),
-('KingWhiteShoot',   'Irlando',  'Daniels',  35, 'China'),
-('KingWhiteSpy',   'Verondo',  'Bush',  26, 'America'),
-('LightElderGod',   'Pavel',  'Farmer',  23, 'Uganda'),
-('LightFastClerk',   'Ted',  'Petrov',  31, 'Brazil'),
-('LightWhiteBlack',   'Danil',  'Cramer',  39, 'China'),
-('ManBlackSmelling',   'William',  'Farmer',  18, 'America'),
-('ManElderDark',   'David',  'Gilbert',  28, 'Chad'),
-('ManLightThin',   'Andrey',  'Birch',  20, 'Japan'),
-('ManRoughKing',   'Roy',  'Derrick',  37, 'America'),
-('ManShootKing',   'David',  'Cramer',  25, 'Brazil'),
-('ManSmellingSpy',   'Duke',  'Babcock',  37, 'Ukraine'),
-('ManThinFat',   'Johnny',  'Dunce',  38, 'Chad'),
-('RainFunnyFat',   'Wilson',  'Farmer',  31, 'Romania'),
-('RainLightUnfunny',   'Verondo',  'Bush',  39, 'Uganda'),
-('RainManUnfunny',   'Sam',  'Taylor',  38, 'Japan'),
-('RainSmellingClerk',   'Verondo',  'Petrov',  35, 'America'),
-('RoughDarkKing',   'Greg',  'Sherlock',  28, 'America'),
-('RoughFastFat',   'Sam',  'Dunce',  20, 'Italy'),
-('RoughManFast',   'Johnny',  'Gilbert',  25, 'Brazil'),
-('RoughShootFunny',   'Sam',  'Dunce',  18, 'Ukraine'),
-('RoughSmellingShoot',   'Mike',  'Cramer',  29, 'Ukraine'),
-('RoughThinBlack',   'Mike',  'Cramer',  30, 'Ukraine'),
-('ShootBlackFunny',   'Max',  'Nagamoto',  18, 'German'),
-('ShootLightMan',   'Danil',  'Gilbert',  23, 'Zimbabwe'),
-('ShootSmellingLight',   'Ted',  'Bush',  34, 'Uganda'),
-('ShootWhiteWhite',   'David',  'Fisher',  40, 'britain'),
-('SmellingDarkSpy',   'Roy',  'Sherlock',  26, 'German'),
-('SmellingElderGod',   'Irlando',  'Petrov',  34, 'britain'),
-('SmellingFatShoot',   'Verondo',  'Nagamoto',  32, 'Zimbabwe'),
-('SmellingKingDark',   'Johnny',  'Derrick',  18, 'Chad'),
-('SpyClerkBlack',   'Wilson',  'Farmer',  32, 'Brazil'),
-('SpyFunnyShoot',   'Irlando',  'Fisher',  26, 'Zimbabwe'),
-('SpyLightClerk',   'Danil',  'Bush',  38, 'America'),
-('SpySmellingFunny',   'Danil',  'Daniels',  36, 'Uganda'),
-('ThinFunnySmelling',   'Irlando',  'Babcock',  30, 'Italy'),
-('ThinGodRain',   'Alexey',  'Sherlock',  30, 'Zimbabwe'),
-('ThinKingFat',   'Johnny',  'Birch',  33, 'Uganda'),
-('ThinLightKing',   'David',  'Taylor',  27, 'Japan'),
-('ThinUnfunnyFat',   'Andrey',  'Nagamoto',  20, 'britain'),
-('UnfunnyBlackBlack',   'Ted',  'Anderson',  32, 'Ukraine'),
-('UnfunnyGodFast',   'Verondo',  'Bush',  35, 'Italy'),
-('UnfunnyRoughUnfunny',   'David',  'Taylor',  22, 'Romania'),
-('WhiteClerkDark',   'Verondo',  'Daniels',  36, 'America'),
-('WhiteElderElder',   'Irlando',  'Birch',  31, 'German'),
-('WhiteElderSmelling',   'Alexey',  'Sherlock',  26, 'Romania'),
-('WhiteFastWhite',   'Victor',  'Ivanov',  27, 'Brazil'),
-('WhiteFatFunny',   'Greg',  'Krasnov',  40, 'Uganda'),
-('WhiteFunnyGod',   'Sam',  'Babcock',  22, 'China'),
-('WhiteGodBlack',   'Mike',  'Nagamoto',  39, 'Zimbabwe'),
-('WhiteGodFat',   'Verondo',  'Gilbert',  35, 'Chad'),
-('WhiteShootRain',   'Pavel',  'Birch',  29, 'britain'),
-('WhiteShootUnfunny',   'David',  'Gilbert',  29, 'Zimbabwe'),
-('WhiteSmellingKing',   'Irlando',  'Petrov',  19, 'America'),
+, BlackBlackFast,   Irlando,  Sherlock,  37, 5
+, BlackFastRain,   Greg,  Bush,  19, 8
+, BlackFastWhite,   Irlando,  Cramer,  38, 4
+, BlackGodFat,   David,  Fisher,  26, 2
+, BlackRainRough,   Tony,  Sherlock,  38, 4
+, BlackShootKing,   Irlando,  Taylor,  21, 5
+, BlackThinKing,   Danil,  Anderson,  35, 9
+, BlackThinSmelling,   Roy,  Cramer,  19, 13
+, ClerkClerkFat,   David,  Taylor,  24, 4
+, ClerkDarkSpy,   Victor,  Nagamoto,  38, 10
+, ClerkGodKing,   Pavel,  Nagamoto,  24, 11
+, ClerkGodRain,   Sam,  Birch,  28, 13
+, ClerkRainMan,   Tony,  Sherlock,  32, 4
+, ClerkThinElder,   Andrey,  Taylor,  39, 5
+, DarkFunnyLight,   Max,  Bush,  32, 8
+, DarkFunnyMan,   Tony,  Petrov,  22, 4
+, DarkShootGod,   Roy,  Ivanov,  35, 4
+, DarkSpyGod,   Alexey,  Babcock,  30, 4
+, DarkSpyWhite,   Danil,  Krasnov,  27, 8
+, DarkUnfunnyKing,   William,  Anderson,  18, 6
+, ElderThinRough,   William,  Farmer,  34, 3
+, FastClerkBlack,   Danil,  Babcock,  31, 10
+, FastDarkUnfunny,   William,  Babcock,  20, 2
+, FastFastFat,   Danil,  Ivanov,  36, 12
+, FastFunnyGod,   Mike,  Daniels,  33, 2
+, FastKingDark,   Ted,  Fisher,  39, 6
+, FastKingRain,   Johnny,  Fisher,  23, 11
+, FastSmellingMan,   David,  Bush,  37, 9
+, FastWhiteFast,   Ted,  Taylor,  29, 8
+, FastWhiteWhite,   Hiroto,  Sherlock,  33, 10
+, FatBlackFast,   Duke,  Gilbert,  18, 13
+, FatFastRough,   Irlando,  Derrick,  21, 11
+, FatFastSpy,   Pavel,  Gilbert,  29, 7
+, FatManRough,   Victor,  Dunce,  22, 3
+, FatRainFunny,   Max,  Anderson,  32, 10
+, FunnyBlackLight,   Wilson,  Farmer,  32, 2
+, FunnyClerkKing,   Sam,  Ivanov,  38, 6
+, FunnyFatGod,   Sam,  Ivanov,  19, 8
+, FunnyManMan,   Alexey,  Taylor,  27, 9
+, FunnyShootRain,   Tony,  Daniels,  36, 6
+, FunnyShootUnfunny,   Duke,  Derrick,  20, 12
+, FunnyThinBlack,   Roy,  Farmer,  31, 4
+, FunnyUnfunnyMan,   Sam,  Nagamoto,  19, 4
+, GodDarkElder,   Max,  Taylor,  36, 2
+, GodDarkMan,   Mike,  Krasnov,  29, 11
+, GodFastBlack,   Duke,  Babcock,  30, 4
+, GodFastLight,   William,  Krasnov,  33, 13
+, GodFunnyBlack,   Alexey,  Babcock,  19, 1
+, GodKingThin,   David,  Ivanov,  22, 4
+, GodLightWhite,   Greg,  Petrov,  29, 10
+, GodSmellingRain,   Alexey,  Birch,  30, 2
+, GodUnfunnyFast,   William,  Krasnov,  38, 6
+, GodUnfunnyShoot,   Max,  Sherlock,  26, 11
+, KingDarkFast,   Greg,  Daniels,  25, 2
+, KingRainThin,   Andrey,  Derrick,  27, 12
+, KingWhiteLight,   Verondo,  Dunce,  38, 2
+, LightFunnyClerk,   Duke,  Daniels,  40, 10
+, LightLightGod,   Verondo,  Gilbert,  30, 2
+, LightManShoot,   Roy,  Dunce,  32, 13
+, LightShootGod,   William,  Krasnov,  38, 13
+, LightThinWhite,   Pavel,  Ivanov,  28, 8
+, ManDarkSmelling,   David,  Ivanov,  39, 1
+, ManFastMan,   Tony,  Bush,  37, 10
+, ManLightFunny,   Ted,  Dunce,  20, 9
+, ManRoughSmelling,   Mike,  Birch,  38, 7
+, ManSmellingFat,   Mike,  Babcock,  21, 3
+, RainFunnyFunny,   Sam,  Cramer,  19, 1
+, RainLightThin,   Hiroto,  Farmer,  24, 9
+, RainWhiteRain,   Tony,  Ivanov,  26, 2
+, RoughDarkBlack,   Max,  Cramer,  23, 9
+, RoughFatLight,   Irlando,  Cramer,  23, 6
+, RoughManSmelling,   Tony,  Birch,  35, 9
+, RoughRoughFat,   Danil,  Ivanov,  20, 8
+, ShootBlackShoot,   Andrey,  Ivanov,  40, 6
+, ShootClerkFat,   Roy,  Bush,  22, 5
+, ShootClerkShoot,   Verondo,  Nagamoto,  20, 12
+, ShootDarkFunny,   Danil,  Babcock,  34, 7
+, ShootGodKing,   Duke,  Daniels,  33, 7
+, ShootRainRain,   David,  Birch,  19, 6
+, SmellingFastUnfunny,   Sam,  Birch,  18, 11
+, SmellingFunnyElder,   Verondo,  Cramer,  19, 13
+, SmellingManSmelling,   David,  Babcock,  18, 12
+, SmellingUnfunnyGod,   Verondo,  Krasnov,  22, 10
+, SmellingWhiteClerk,   Hiroto,  Farmer,  22, 9
+, SpyKingShoot,   Johnny,  Bush,  37, 11
+, ThinBlackClerk,   Irlando,  Anderson,  28, 6
+, ThinElderSmelling,   Greg,  Ivanov,  32, 4
+, ThinFastRain,   Alexey,  Sherlock,  37, 13
+, ThinFastSmelling,   Roy,  Krasnov,  31, 3
+, ThinFatElder,   Danil,  Daniels,  31, 10
+, ThinKingUnfunny,   Tony,  Sherlock,  39, 13
+, ThinRoughBlack,   Wilson,  Dunce,  39, 11
+, UnfunnyBlackRain,   Alexey,  Birch,  19, 8
+, UnfunnyBlackUnfunny,   Verondo,  Cramer,  35, 7
+, UnfunnyThinUnfunny,   Ted,  Krasnov,  19, 5
+, WhiteDarkBlack,   Andrey,  Fisher,  22, 5
+, WhiteElderClerk,   Verondo,  Bush,  35, 13
+, WhiteFatMan,   Pavel,  Bush,  27, 2
+, WhiteSmellingRough,   Sam,  Nagamoto,  19, 11
+, WhiteWhiteDark,   Johnny,  Derrick,  27, 9
