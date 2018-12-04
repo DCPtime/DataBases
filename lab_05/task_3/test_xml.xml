@@ -1,0 +1,6 @@
+<ROOT>
+  <Games Id="1" GameName="Battlefield" GameGenre="MOBA" Developer="Babaroga" TournamenstAmount="8" PlayerAmount="22766" />
+  <Games Id="2" GameName="Battlefield 2" GameGenre="Sport" Developer="Jagex" TournamenstAmount="17" PlayerAmount="30435" />
+  <Games Id="3" GameName="Battlefield 3" GameGenre="RTS" Developer="Hexage" TournamenstAmount="2" PlayerAmount="3134" />
+  <Games Id="4" GameName="Battlefield 4" GameGenre="Sport" Developer="Kloonigames" TournamenstAmount="12" PlayerAmount="8889" />
+</ROOT>

@@ -1,0 +1,10 @@
+<row Id="2" GameName="Battlefield 2" GameGenre="Sport" Developer="Jagex" TournamenstAmount="17" PlayerAmount="30435" />
+<row Id="13" GameName="Biomutant 3" GameGenre="FPS" Developer="Kloonigames" TournamenstAmount="5" PlayerAmount="31382" />
+<row Id="17" GameName="Call of Duty 2" GameGenre="RTS" Developer="Hexage" TournamenstAmount="11" PlayerAmount="32745" />
+<row Id="18" GameName="Call of Duty 3" GameGenre="Fighting" Developer="Alientrap" TournamenstAmount="15" PlayerAmount="31247" />
+<row Id="24" GameName="Candleman 4" GameGenre="Racing" Developer="Frogwares" TournamenstAmount="19" PlayerAmount="31916" />
+<row Id="33" GameName="Chimparty 3" GameGenre="Sport" Developer="Frogwares" TournamenstAmount="20" PlayerAmount="32738" />
+<row Id="37" GameName="Collectems 2" GameGenre="RTS" Developer="Jagex" TournamenstAmount="1" PlayerAmount="33408" />
+<row Id="40" GameName="Collectems 5" GameGenre="MOBA" Developer="Cypronia" TournamenstAmount="2" PlayerAmount="33046" />
+<row Id="66" GameName="Extinction" GameGenre="MOBA" Developer="Jagex" TournamenstAmount="13" PlayerAmount="32876" />
+<row Id="70" GameName="Extinction 5" GameGenre="RTS" Developer="Frogwares" TournamenstAmount="5" PlayerAmount="30404" />

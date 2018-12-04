@@ -1,0 +1,11 @@
+<!ELEMENT Games (Games*)>
+
+<!ELEMENT Games>
+
+<!ATTLIST Games
+    Id (#Id) #IMPLIED
+    GameName (#PCDATA)
+    GameGenre (#PCDATA)
+	Developer (#PCDATA)
+	TournamenstAmount (#PCDATA)
+	PlayerAmount (#PCDATA) >

@@ -1,0 +1,11 @@
+<PersonalInformation>
+  <PersonalInformation Id="1" NickName=" BlackBlackFast" FirstName="   Irlando" LastName="  Sherlock" AGE="37" CountryId="5">
+    <Countries Id="1" Country=" Russia" />
+  </PersonalInformation>
+  <PersonalInformation Id="2" NickName=" BlackFastRain" FirstName="   Greg" LastName="  Bush" AGE="19" CountryId="8">
+    <Countries Id="2" Country=" America" />
+  </PersonalInformation>
+  <PersonalInformation Id="3" NickName=" BlackFastWhite" FirstName="   Irlando" LastName="  Cramer" AGE="38" CountryId="4">
+    <Countries Id="3" Country=" Italy" />
+  </PersonalInformation>
+</PersonalInformation>

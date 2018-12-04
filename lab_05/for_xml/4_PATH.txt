@@ -1,0 +1,18 @@
+<Players>
+  <Player Id="11">
+    <PrizeMoney>3227</PrizeMoney>
+    <PlayStyle>   Middle </PlayStyle>
+  </Player>
+  <Player Id="12">
+    <PrizeMoney>32399</PrizeMoney>
+    <PlayStyle>   Agressive </PlayStyle>
+  </Player>
+  <Player Id="13">
+    <PrizeMoney>7380</PrizeMoney>
+    <PlayStyle>   Middle </PlayStyle>
+  </Player>
+  <Player Id="14">
+    <PrizeMoney>1112</PrizeMoney>
+    <PlayStyle>   Agressive </PlayStyle>
+  </Player>
+</Players>
