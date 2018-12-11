@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PersonalInformation_root[
+  <!ELEMENT PersonalInformation_root (PersonalInformation+)>
+  <!ELEMENT PersonalInformation (NickName, FirstName, LastName, AGE, CountryId)>
+  <!ATTLIST PersonalInformation _id ID #REQUIRED>
+  <!ELEMENT NickName (#PCDATA)>
+  <!ELEMENT FirstName (#PCDATA)>
+  <!ELEMENT LastName (#PCDATA)>
+  <!ELEMENT AGE (#PCDATA)>
+  <!ELEMENT CountryId (#PCDATA)>
+]>
+
+
+<PersonalInformation_root>
+
+<?Blue_words red_words?>
+<![CDATA[<?xml version="1.0"?>]]>
+
+  <PersonalInformation _id="1">
+    <NickName>BlackBlackFast</NickName>
+    <FirstName>Irlando</FirstName>
+    <LastName>Sherlock</LastName>
+    <AGE>37</AGE>
+    <CountryId>1</CountryId>
+	<!-- He won somthing -->
+  </PersonalInformation>
+  
+  <PersonalInformation _id="2">
+    <NickName>BlackFastRain</NickName>
+    <FirstName>Greg</FirstName>
+    <LastName>Bush</LastName>
+    <AGE>19</AGE>
+    <CountryId>8</CountryId>
+	<!-- He don't like his first name-->
+  </PersonalInformation>
+  
+  <PersonalInformation _id="3">
+    <NickName>BlackFastWhite</NickName>
+    <FirstName>Shrek</FirstName>
+    <LastName>Cramer</LastName>
+    <AGE>38</AGE>
+    <CountryId>1</CountryId>
+	  <!-- He is the last in xml document -->
+  </PersonalInformation>
+  
+</PersonalInformation_root>
