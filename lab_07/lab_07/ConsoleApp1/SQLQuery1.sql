@@ -1,0 +1,7 @@
+CREATE PROCEDURE GetDiffAge(@FirstAge AS INT OUTPUT, @SecondAge AS INT OUTPUT) AS
+BEGIN
+    RETURN @FirstAge - @SecondAge
+END
+GO
+
+DROP PROCEDURE GetDiffAge;
